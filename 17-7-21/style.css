@@ -1,0 +1,35 @@
+
+body{
+    margin: 50px 100px 50px 100px;
+    padding: 20px  20px 20px 20px;
+    font-size: 26px;
+    background-color:grey;
+
+    
+}
+
+/* textarea{
+    border: none;
+    background-color: lightyellow;
+    border-radius: 10px 10px 10px;
+    border-color: green;
+    width: 275px;
+    height: 275px;
+    font-style: italic;
+    padding-left: 20px;
+} */
+  textarea{
+        height:250px;
+        width:250px;
+        border: solid 1px;
+        border-radius: 25px 25px 25px 0px;
+        background-color:lightyellow;
+        margin-right:10px;
+        margin-top:20px;
+ }
+ button{
+margin-top: 20px;
+margin-bottom: 10px;
+ }
+ 
+    
