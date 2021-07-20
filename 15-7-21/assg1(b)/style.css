@@ -1,0 +1,13 @@
+input{
+    width:50px;
+    height:35px;
+    border: solid 2px;
+    background-color: darkgrey;
+    text-align: center;
+}
+body{
+    margin-top: 100px;
+}
+.opt input{
+    background-color:aqua;  
+}
