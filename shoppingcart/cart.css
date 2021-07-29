@@ -1,0 +1,16 @@
+table{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 60px;
+    border: 1px solid grey;
+    width: 80%;
+}
+th{
+    margin-right: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+td{
+    padding-right: 50px;
+    padding-left: 50px;
+}
